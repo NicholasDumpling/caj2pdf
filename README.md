@@ -26,6 +26,11 @@
 - [PyPDF2](https://github.com/mstamy2/PyPDF2)
 - [mutool](https://mupdf.com/index.html)
 
+- # pip install PyPDF2
+- # git clone --recursive git://git.ghostscript.com/mupdf.git && cd mupdf && make install
+
+
+
 ### 用法
 
 ```
